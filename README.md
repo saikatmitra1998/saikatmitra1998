@@ -34,10 +34,10 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=tensorflow,html,css,vscode,github,git,r" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,html,css,vscode,github,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,java,mysql,flask" /><br>
 </div>
 
