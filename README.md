@@ -54,7 +54,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center"> Stats </h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-saikatmitra1998.vercel.app/?user=saikatmitra1998&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
