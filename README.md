@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,java,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=python,mysql,flask" /><br>
 </div>
 
 <br/>
